@@ -13,4 +13,5 @@ You can click the Preview link to take a look at your changes.
 ## Images
 
 ![alt text](download.jpeg)
-![alt text](wp3155700.jpg)
+![alt text](download.jpeg)
+![alt text](download.jpeg)
