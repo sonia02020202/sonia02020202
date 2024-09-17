@@ -7,7 +7,8 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 
+- 😄 ![Screenshot 2024-09-08 1245255](https://github.com/user-attachments/assets/d8a6a30e-357c-4268-8b7b-99013e8a2af4)
+
 - ⚡ 
 
 ## Images
