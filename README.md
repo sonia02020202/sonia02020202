@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Images
 
-<p style="text-align:center;">![alt text](download.jpeg)</P>
+![alt text](download.jpeg)
 ![alt text](download.jpeg)
 ![alt text](download.jpeg)
  
