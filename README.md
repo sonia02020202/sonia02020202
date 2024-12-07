@@ -7,17 +7,15 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 
+- https://www.linkedin.com/in/sonia-s-76046aa4/
 - ⚡ 
 
 ![Screenshot 2024-09-08 124525](https://github.com/user-attachments/assets/3db723b7-9e3a-4281-867c-efcd096b0be1)
 
-## Images
 
-![alt text](download.jpeg)
-![alt text](download.jpeg)
+
+
 
  
-💞️ 🌱  💞️  📫 💞️ 😄 💞️⚡ 💞️💞️ 🌱  💞️  📫 💞️ 😄 💞️⚡ 💞️💞️ 🌱  💞️  📫 💞️ 😄 💞️⚡ 💞️
 
 
